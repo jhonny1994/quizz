@@ -23,3 +23,7 @@ To deploy this project run
 ```bash
   flutter run lib/main.dart
 ```
+
+## Gif
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/29334417/189519857-99aa9a6d-e80a-46a0-8384-acd29dfeb661.gif)
