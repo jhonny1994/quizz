@@ -39,6 +39,7 @@ dependencies:
   quickalert: ^1.0.0
   shared_preferences: ^2.0.15
   auto_size_text: ^3.0.0
+  internet_connection_checker: ^0.0.1+4
 
 dev_dependencies:
   flutter_test:
